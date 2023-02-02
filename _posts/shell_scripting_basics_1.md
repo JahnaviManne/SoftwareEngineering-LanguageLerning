@@ -14,6 +14,5 @@ There are no additional packages that are required for executing shell scripts. 
 - A variable in shell scripting is nothing but a pointer to the data. In shell scripting, we can create, assign, and delete variables respectively.
 - The name of a variable can contain just letters (a to z or a to z), numbers ( 0 to 9) or the underscore character (_).
 - For accessing the value stored in a variable, we need to prefix the name of the variable with the dollar sign ($).
-
-Codeblock for defining and accessing shell variables: "https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/variables.sh"
+**Codeblock for defining and accessing shell variables:** "https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/variables.sh"
 
