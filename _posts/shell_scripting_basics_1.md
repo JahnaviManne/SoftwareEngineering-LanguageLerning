@@ -9,6 +9,15 @@ I started going through many online resources for learning shell scripting and c
 **Installation:**
 There are no additional packages that are required for executing shell scripts. Shell scripting can be executed by creating a file with ".sh" extenstion and adding "#!/bin/bash" at the very first line of the file"
 
+<h1>Learning about Shebang in shell script</h1>
+
+My learnings on shebang line:
+- In shell scripting, the shebang (#!) is a special code in the very beginning of a script file that tells the system which interpreter should be used to run the script. 
+- This shebang line specifies that the script should be run by the bash interpreter. 
+- When a shell script is executed, the system first looks for the shebang line and uses the specified interpreter to run the script. 
+- If the shebang line is not present, the system may use a default interpreter or throw an error.
+
+
 <h1>Variables in shell scripting</h1>
 
 - A variable in shell scripting is nothing but a pointer to the data. In shell scripting, we can create, assign, and delete variables respectively.
