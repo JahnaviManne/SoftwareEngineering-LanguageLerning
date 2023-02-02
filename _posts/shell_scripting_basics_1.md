@@ -6,7 +6,7 @@ Date: 2023-02-01
 <h1>How did I start</h1>
 I started going through many online resources for learning shell scripting and came accross "https://www.tutorialspoint.com/unix/shell_scripting.htm" which I found very well aggregated and defined with all the concepts of shell scripting. 
 
-**Shell scripting and it's advantages:**
+<h1>Shell scripting and it's advantages</h1>
 
 Shell scripting is a type of scripting that is used to automate tasks in a Unix-based operating system such as Linux or macOS. 
 It involves writing a series of commands in a script file that can be executed as a single command. 
