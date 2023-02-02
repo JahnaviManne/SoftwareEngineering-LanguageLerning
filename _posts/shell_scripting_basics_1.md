@@ -15,3 +15,5 @@ There are no additional packages that are required for executing shell scripts. 
 - The name of a variable can contain just letters (a to z or a to z), numbers ( 0 to 9) or the underscore character (_).
 - For accessing the value stored in a variable, we need to prefix the name of the variable with the dollar sign ($).
 
+Codeblock for defining and accessing shell variables: "https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/variables.sh"
+
