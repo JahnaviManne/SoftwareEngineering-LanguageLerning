@@ -9,3 +9,5 @@ I started going through many online resources for learning shell scripting and c
 **Installation:**
 There are no additional packages that are required for executing shell scripts. Shell scripting can be executed by creating a file with ".sh" extenstion and adding "#!/bin/bash" at the very first line of the file"
 
+<h1>Variables in shell scripting</h1>
+
