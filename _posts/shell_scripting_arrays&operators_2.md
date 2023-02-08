@@ -17,3 +17,18 @@ Date: 2023-02-06
 **Codeblocks for accessing and reading array values:** 
 - https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/accessing_array.sh
 - https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/looping_through_array.sh
+
+
+<h1>Basic operators in shell scripting</h1>
+
+Shell supports 5 basic operators, namely:
+- Arithmetic operator ('+', '-', '*', '%', '=', '==', '!=')
+- Relational Operators ('-eq', '-ne', '-gt', '-lt', '-ge', '-le')
+- Boolean Operators ('!', '-o', '-a')
+- String Operators ('=', '!=', 'str')
+
+**Codeblock for performing basic arithemetic operations:** 
+- https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/arithemetic_operators.sh
+
+**Codeblock for performing basic relational operations:** 
+- https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/relational_operators.sh
