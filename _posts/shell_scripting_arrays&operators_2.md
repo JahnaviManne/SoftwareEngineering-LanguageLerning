@@ -35,4 +35,4 @@ Shell supports 5 basic operators, namely:
 
 
 <h1>Challenges faced</h1>
-- I faced a little difficulty while practicing and executing code for "boolean operators". I will be reading a bit more about it, practice, execute and document it in the next blog.
+I faced a little difficulty while practicing and executing code for "boolean operators". I will be reading a bit more about it, practice, execute and document it in the next blog.
