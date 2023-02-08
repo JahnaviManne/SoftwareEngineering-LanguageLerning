@@ -32,3 +32,7 @@ Shell supports 5 basic operators, namely:
 
 **Codeblock for performing basic relational operations:** 
 - https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/relational_operators.sh
+
+
+<h1>Challenges faced so far</h1>
+- I faced a little difficulty while practicing and executing code for "boolean operators". I will be reading a bit more about it, practice, execute and document it in the next blog.
