@@ -18,24 +18,25 @@ Date: 2023-02-14
 - In Decision making the programmer provides one or more conditions for the execution of a block of code. 
 - If the given conditions are satisfied then that particular block of code is executed. 
 - There are two types of decision-making statements that are used in shell scripting. 
-     - If-else statement
+     - if-else statement
      - case-sac statement
 
-<h1>The if...else statements</h1>
+<h1>The if-else statements</h1>
 
 - If else statements are decision-making statements that are used to select a particular option from a given set of options.
-- Unix Shell supports the following types of if…else statements.
-    - if...fi statement
-    - if...else...fi statement
-    - if...elif...else...fi statement
+- Unix Shell supports the following types of if-else statements.
+    - if-fi statement
+    - if-else-fi statement
+    - if-elif-else-fi statement
 
-**Codeblock for if...fi statement:** 
+**Codeblock for if-fi statement:**
+- https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/if-fi.sh
 
+**Codeblock for if-else-fi statement:**
+- https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/if-else-fi.sh
 
-**Codeblock for if...else...fi statement:** 
-
-
-**Codeblock for if...elif...else...fi statement:** 
+**Codeblock for if-elif-else-fi statement:**
+- https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/if-elif-else-fi.sh
 
 
 <h1>Challenges faced</h1>
