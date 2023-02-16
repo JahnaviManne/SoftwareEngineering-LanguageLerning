@@ -18,9 +18,8 @@ Date: 2023-02-14
 - In Decision making the programmer provides one or more conditions for the execution of a block of code. 
 - If the given conditions are satisfied then that particular block of code is executed. 
 - There are two types of decision-making statements that are used in shell scripting. 
-
-**If-else statement**
-**case-sac statement**
+     - If-else statement
+     - case-sac statement
 
 <h1>The if...else statements</h1>
 
