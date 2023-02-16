@@ -40,3 +40,4 @@ Date: 2023-02-14
 
 
 <h1>Challenges faced</h1>
+Learning if-else statement went smooth but case-sac statement which eliminates the usage of multiple if-elif statements seems to be bit confusing for me. I will be going through other tutorials and continue with the same in the next blog. 
