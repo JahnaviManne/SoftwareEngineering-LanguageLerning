@@ -19,7 +19,7 @@ Date: 2023-02-14
 - If the given conditions are satisfied then that particular block of code is executed. 
 - There are two types of decision-making statements that are used in shell scripting. 
      - if-else statement
-     - case-sac statement
+     - case-esac statement
 
 <h1>The if-else statements</h1>
 
@@ -40,4 +40,4 @@ Date: 2023-02-14
 
 
 <h1>Challenges faced</h1>
-Learning if-else statement went smooth but case-sac statement which eliminates the usage of multiple if-elif statements seems to be bit confusing for me. I will be going through other tutorials and continue with the same in the next blog. 
+Learning if-else statement went smooth but case-esac statement which eliminates the usage of multiple if-elif statements seems to be bit confusing for me. I will be going through other tutorials and continue with the same in the next blog. 
