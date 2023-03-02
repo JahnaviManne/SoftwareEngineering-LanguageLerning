@@ -17,8 +17,8 @@ Date: 2023-02-28
 - In the above image, the first column represents different access modes, i.e., the permission associated with a file or a directory.
 - The permissions are broken into groups of threes, and each position in the group denotes a specific permission, in this order: read (r), write (w), execute (x) 
 - The first three characters(2-4) represent the permissions for the file's owner. 
-- For example, -rw-r--r-- represents that the owner has read(r) and write(w) permission.
+- For example, **"-rw-r--r--"** represents that the owner has read(r) and write(w) permission.
 - The second group of three characters(5-7) consists of the permissions for the group to which the file belongs. 
-- For example, -rw-r--r-- represents that the group has read(r) only permission.
+- For example, **"-rw-r--r--"** represents that the group has read(r) only permission.
 - The last group of three characters(8-10) represents the permissions for everyone else. 
-- For example, -rw-r--r-- represents that there is read(r) only permission.
+- For example, **"-rw-r--r--"** represents that there is read(r) only permission.
