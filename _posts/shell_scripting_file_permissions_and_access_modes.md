@@ -49,4 +49,5 @@ Date: 2023-02-28
 - https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/file-access.sh
 
 <h1>Challenges faced</h1>
-- Learning file permissions and access modes was easy and I did not face any challenges in this part.
+
+Learning file permissions and access modes was easy and I did not face any challenges in this part.
