@@ -46,4 +46,4 @@ Date: 2023-02-28
     - **"="** Sets the designated permissions.
 
 **Code example for checking if the file exists and then modifying the access modes of the file:** 
-https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/file-access.sh
+- https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/file-access.sh
