@@ -22,3 +22,6 @@ Date: 2023-02-28
 - For example, **"-rw-r--r--"** represents that the group has read(r) only permission.
 - The last group of three characters(8-10) represents the permissions for everyone else. 
 - For example, **"-rw-r--r--"** represents that there is read(r) only permission.
+
+**Code example for checking if the file exists and then printing the permissions of it:** 
+- https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/file-permissions.sh
