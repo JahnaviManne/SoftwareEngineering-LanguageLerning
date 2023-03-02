@@ -26,7 +26,7 @@ Date: 2023-02-28
 **Code example for checking if the file exists and then printing the permissions of it:** 
 - https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/file-permissions.sh
 
-<h1>File cccess modes in shell scripting</h1>
+<h1>File access modes in shell scripting</h1>
 
 - The permissions of a file are the first line of protecting data in the security of a Linux system. 
 - The basic building blocks of Linux permissions are the read, write, and execute permissions, which have been described below.
@@ -37,4 +37,13 @@ Date: 2023-02-28
 <h1>Changing permissions of a file</h1>
 
 - To change the file or the directory permissions, you use the chmod (change mode) command.
+- There are two ways to use chmod:
+    - the symbolic mode and 
+    - the absolute mode.
+- The easiest way for a beginner to modify file or directory permissions is to use the symbolic mode. With symbolic permissions you can add, delete, or specify the permission set you want by using the operators. (+, -, =)
+    - **"+"** Adds the designated permissions to a file or directory.
+    - **"-"** Removes the designated permissions from a file or directory.
+    - **"="** Sets the designated permissions.
 
+**Code example for checking if the file exists and then modifying the access modes of the file:** 
+https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/file-access.sh
