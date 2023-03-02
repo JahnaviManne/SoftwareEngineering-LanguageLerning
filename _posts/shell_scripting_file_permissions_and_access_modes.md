@@ -47,3 +47,6 @@ Date: 2023-02-28
 
 **Code example for checking if the file exists and then modifying the access modes of the file:** 
 - https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/file-access.sh
+
+<h1>Challenges faced</h1>
+- Learning file permissions and access modes was easy and I did not face any challenges in this part.
