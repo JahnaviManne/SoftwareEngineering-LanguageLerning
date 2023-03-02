@@ -25,3 +25,16 @@ Date: 2023-02-28
 
 **Code example for checking if the file exists and then printing the permissions of it:** 
 - https://github.com/JahnaviManne/SoftwareEngineering-LanguageLerning/blob/main/file-permissions.sh
+
+<h1>File cccess modes in shell scripting</h1>
+
+- The permissions of a file are the first line of protecting data in the security of a Linux system. 
+- The basic building blocks of Linux permissions are the read, write, and execute permissions, which have been described below.
+    - **Read**: Grants the capability to read, i.e., view the contents of the file.
+    - **Write**: Grants the capability to modify, or remove the content of the file.
+    - **Execute**: User with execute permissions can run a file as a program.
+
+<h1>Changing permissions of a file</h1>
+
+- To change the file or the directory permissions, you use the chmod (change mode) command.
+
