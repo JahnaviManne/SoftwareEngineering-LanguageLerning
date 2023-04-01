@@ -22,7 +22,7 @@ Date: 2023-03-31
 - Modifying configurations in the required files using shell script.
 
 
-**Codeblocks:** 
+<h1>Codeblocks</h1>
 
 - https://github.com/Sathvik-Chowdary-Veerapaneni/Mini-Project-with-Rust/blob/main/shell-scripting.sh
 - https://github.com/osamaibraheem11/basicLaravelApp/blob/main/shell-scripting/apache2.sh
